@@ -33,3 +33,5 @@ footer{padding-top:18px}
 .plan-card{animation:fadeIn .6s ease both}
 @media(max-width:560px){.picker-card{padding:22px 16px}.cal-weekdays,.cal-grid{gap:4px}.cal-day{font-size:12px}}
 .picker-card,.plan-card,.final-title,.final-copy,.closing{position:relative;z-index:1}
+.memory:nth-child(2) img{object-position:center 25%}
+.memory:nth-child(3) img{object-position:center 25%}
