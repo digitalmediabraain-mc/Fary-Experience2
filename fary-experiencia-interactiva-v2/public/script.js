@@ -2,13 +2,13 @@
 // Canciones de Spotify debajo de cada foto. Pega el link de la canción
 // (Spotify → Compartir → Copiar enlace). Si dejas "url" vacío, ese enlace no se muestra.
 const SONGS = [
-  { title: "", artist: "", url: "" }, // foto 1
-  { title: "", artist: "", url: "" }, // foto 2
-  { title: "", artist: "", url: "" }, // foto 3
+  { title: "", artist: "", url: "https://open.spotify.com/track/48461AcRREdzErZsCtJHPU?si=bwhv7-6LS6iedtDZxaFSiw&utm_source=copy-link" }, // foto 1
+  { title: "", artist: "", url: "https://open.spotify.com/track/48461AcRREdzErZsCtJHPU?si=bwhv7-6LS6iedtDZxaFSiw&utm_source=copy-link" }, // foto 2
+  { title: "", artist: "", url: "https://open.spotify.com/track/48461AcRREdzErZsCtJHPU?si=bwhv7-6LS6iedtDZxaFSiw&utm_source=copy-link" }, // foto 3
 ];
 // Para recibir su elección por WhatsApp: tu número con código de país, sin + ni espacios (ej: "573001234567").
 // Si lo dejas vacío, se abrirá WhatsApp para que ella elija el contacto.
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "3183778404";
 const DATE_YEAR = 2026;          // el mes siempre es diciembre
 const HOURS = [10,11,12,13,14,15,16,17,18,19,20,21]; // horas disponibles
 /* ===================================================== */
